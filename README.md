@@ -1,4 +1,4 @@
-# Theoretical Data Analytics
+# Linear Algebra and Optimization for Machine Learning
 
 
 
